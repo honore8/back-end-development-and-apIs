@@ -1,12 +1,9 @@
 {
   "name": "back-end-development-and-apis",
-  "author": "Honoré LATA",
   "version": "1.0.0",
   "description": "Developp APIs",
+  "author": "Honoré LATA",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/honore8/back-end-development-and-apis.git"
@@ -18,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/honore8/back-end-development-and-apis/issues"
   },
-  "homepage": "https://github.com/honore8/back-end-development-and-apis#readme"
+  "homepage": "https://github.com/honore8/back-end-development-and-apis#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
