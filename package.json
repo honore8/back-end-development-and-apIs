@@ -13,7 +13,8 @@
   "keywords": [
     "api"
   ],
-  "author": "Honoré LATA",
+  "author": "Jane Doe",
+  // "author": "Honoré LATA",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/honore8/back-end-development-and-apis/issues"
